@@ -1,1 +1,2 @@
-# debuff-master
+# Debuff Master
+Aucune description.
